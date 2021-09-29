@@ -1,7 +1,7 @@
 # FlexNav
 
 - [FlexNav](#flexnav)
-  - [Homework Maybe](#homework-maybe)
+  - [Homework](#homework)
   - [Reading](#reading)
   - [JavaScript Preview & Review - Boulevards de Paris](#javascript-preview--review---boulevards-de-paris)
     - [Arrays](#arrays)
@@ -12,7 +12,7 @@
   - [Working with Objects](#working-with-objects)
   - [An Array of Objects](#an-array-of-objects)
 
-## Homework Maybe
+## Homework
 
 Examine the files in the `other/homework` folder. `index.html` is your starting point and `index-done.html` the goal. Your assignment is to edit `index.html` so it matches the goal.
 
